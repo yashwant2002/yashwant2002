@@ -10,7 +10,7 @@
 - 📫 How to reach me **https://yashwant2002.netlify.app/**
 
 - ⚡ Fun fact **I am funny**
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/y_a_s_h_4885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_a_s_h_4885" height="30" width="40" /></a>
