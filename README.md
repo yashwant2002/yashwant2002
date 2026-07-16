@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjkyNzhhaHl3dDd6eTRvenJ5OXp5OGlqdWg4dGUyNm04ZHh1OTVqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
 - 🔭 I’m currently working on [MERN-MusicApp](https://github.com/yashwant2002/MERN-MusicApp.git)
 
-- 🌱 I’m currently learning **Data structure and Algorithm**
+- 🌱 I’m currently learning **Machine Learning & Algorithm**
 
 - 💬 Ask me about **MERN Stack**
 
