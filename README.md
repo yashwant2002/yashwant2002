@@ -20,12 +20,15 @@
 
 ## Skills
 
+- **Programming:** Python, Javascript
 - **Frontend Development:** React, TypeScript, TailwindCSS, HTML, CSS
 - **Backend Development:** Node.js, Express, RESTful APIs
-- **Database Management:** MongoDB
+- **Machine Learning:** Regression, Classification, Clustering, Neural Networks
+- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Database Management:** MongoDB, MySQL
 - **Authentication:** JWT, secure role-based authentication
-- **Tools & Technologies:** Git, Vite, Postman
-- **Soft Skills:** Communication, Problem-solving, Adaptability, Teamwork, Critical Thinking
+- **Tools & Technologies:** Git, Vite, Postman, TensorFlow, Scikit-Learn
+- **Soft Skills:** Communication, Problem-solving, Adaptability, Teamwork, Critical Thinking, Strong Analytical
 
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant2002&" alt="yashwant2002" /></p>
