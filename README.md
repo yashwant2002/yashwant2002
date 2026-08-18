@@ -46,8 +46,8 @@
   <h2>System Analytics & Telemetry</h2>
 </div>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=yashwant2002&show_icons=true&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000">
+<p align="center" display="flex">
+  <img src="https://github-stats-extended.vercel.app/api/?username=yashwant2002&show_icons=true&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000", width="50%">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashwant2002&langs_count=6&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000" alt="Core Diagnostics" width="48%">
 </p>
 
