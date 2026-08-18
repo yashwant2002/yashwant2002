@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yashwant Sahu</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+
+<h3 align="center">
+  Data Scientist • Machine Learning Enthusiast • Full-Stack Developer
+</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjkyNzhhaHl3dDd6eTRvenJ5OXp5OGlqdWg4dGUyNm04ZHh1OTVqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
-- 🔭 I’m currently working on [MERN-MusicApp](https://github.com/yashwant2002/MERN-MusicApp.git)
 
-- 🌱 I’m currently learning **Machine Learning & Algorithm**
+- 🔭 Currently working on **MERN & AI/ML projects**
+- 🌱 Currently learning **Machine Learning, Deep Learning & MLOps**
+- 🤖 Interested in **AI Engineering and Intelligent Systems**
 
-- 💬 Ask me about **MERN Stack**
+- 📊 Interested in **Data Science, Machine Learning, MLOPs & Data Analytics**
+- 🎯 Goal: Build scalable and production-ready AI applications
 
-- 📫 How to reach me **https://yashwant2002.netlify.app/**
+- 📫 How to reach me **https://yashwant-portfoliio.vercel.app/**
 
 - ⚡ Fun fact **I am funny**
 </br>
@@ -31,14 +36,19 @@
 - **Soft Skills:** Communication, Problem-solving, Adaptability, Teamwork, Critical Thinking, Strong Analytical
 
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant2002&" alt="yashwant2002" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant2002&theme=transparent&hide_border=true&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"
+    alt="GitHub Streak"
+  />
+</p>
 <div align="center">
   <h2>System Analytics & Telemetry</h2>
 </div>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=yashwant2002&show_icons=true&hide_border=true&title_color=94A398&text_color=8A9A86&icon_color=243B33&bg_color=00000000">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashwant2002&langs_count=6&layout=compact&hide_border=true&title_color=94A398&text_color=8A9A86&bg_color=00000000" alt="Core Diagnostics" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/?username=yashwant2002&show_icons=true&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashwant2002&langs_count=6&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000" alt="Core Diagnostics" width="48%">
 </p>
 
 <br>
