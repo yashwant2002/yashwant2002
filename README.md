@@ -32,3 +32,13 @@
 
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant2002&" alt="yashwant2002" /></p>
+<div align="center">
+  <h2>System Analytics & Telemetry</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/?username=yashwant2002&show_icons=true&hide_border=true&title_color=94A398&text_color=8A9A86&icon_color=243B33&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashwant2002&langs_count=6&layout=compact&hide_border=true&title_color=94A398&text_color=8A9A86&bg_color=00000000" alt="Core Diagnostics" width="48%">
+</p>
+
+<br>
