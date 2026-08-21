@@ -38,7 +38,7 @@
 </br>
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant2002&theme=transparent&hide_border=true&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"
+    src="https://github-readme-streak-stats.herokuapp.com?user=yashwant2002&theme=transparent&hide_border=true&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"
     alt="GitHub Streak"
   />
 </p>
